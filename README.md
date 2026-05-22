@@ -1,6 +1,6 @@
 # Programa de Adjudicaturas Jaén
 
-> [!NOTE] Nota
+> [!NOTE]
 > 
 > Este programa esta orientado a su utilización dentro de la entidad publica de la comunidad autónoma de Andalucia.
 
